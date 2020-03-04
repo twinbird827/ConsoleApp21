@@ -3,7 +3,7 @@ ConsoleApp21
 
 ## Overview
 
-��O���ؗp��ۼު��
+例外検証用ﾌﾟﾛｼﾞｪｸﾄ
 
 ## Description
 
